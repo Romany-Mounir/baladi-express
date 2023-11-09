@@ -1,0 +1,1662 @@
+.baladi-mart {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .baladi-mart .overlap-wrapper {
+    background-color: #ffffff;
+    height: 2484px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .baladi-mart .overlap {
+    height: 3430px;
+    left: -150px;
+    position: relative;
+    width: 1702px;
+  }
+  
+  .baladi-mart .frame {
+    height: 316px;
+    left: 215px;
+    position: absolute;
+    top: 1161px;
+    width: 1305px;
+  }
+  
+  .baladi-mart .group {
+    height: 316px;
+    position: relative;
+  }
+  
+  .baladi-mart .overlap-group-wrapper {
+    height: 316px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .overlap-group {
+    border-radius: 10px;
+    height: 316px;
+    position: relative;
+  }
+  
+  .baladi-mart .rectangle {
+    background-color: #b3bfcb59;
+    border-radius: 10px;
+    filter: blur(84px);
+    height: 286px;
+    left: 15px;
+    position: absolute;
+    top: 15px;
+    width: 170px;
+  }
+  
+  .baladi-mart .div {
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 316px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .frame-2 {
+    background-color: #ffffff;
+    height: 215px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .image {
+    height: 150px;
+    left: 14px;
+    object-fit: cover;
+    position: absolute;
+    top: 32px;
+    width: 172px;
+  }
+  
+  .baladi-mart .img {
+    height: 25px;
+    left: 166px;
+    position: absolute;
+    top: 7px;
+    width: 25px;
+  }
+  
+  .baladi-mart .group-2 {
+    height: 79px;
+    left: 10px;
+    position: absolute;
+    top: 227px;
+    width: 192px;
+  }
+  
+  .baladi-mart .text-wrapper {
+    color: #000000;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .text-wrapper-2 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    position: absolute;
+    text-align: center;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .text-wrapper-3 {
+    color: #000000;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    position: absolute;
+    text-align: center;
+    top: 56px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .text-wrapper-4 {
+    color: #00000066;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    position: absolute;
+    text-align: center;
+    text-decoration: line-through;
+    top: 69px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .div-wrapper {
+    background-color: #ff58003b;
+    border: 1px solid;
+    border-color: #ff5800;
+    border-radius: 6px;
+    height: 22px;
+    left: 130px;
+    overflow: hidden;
+    position: absolute;
+    top: 56px;
+    width: 54px;
+  }
+  
+  .baladi-mart .text-wrapper-5 {
+    color: #ff4200;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    left: 15px;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .group-3 {
+    height: 316px;
+    left: 663px;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .group-4 {
+    height: 316px;
+    left: 221px;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .overlap-group-2 {
+    height: 316px;
+    position: relative;
+    width: 202px;
+  }
+  
+  .baladi-mart .image-2 {
+    height: 172px;
+    left: 3px;
+    position: absolute;
+    top: 21px;
+    width: 197px;
+  }
+  
+  .baladi-mart .text-wrapper-6 {
+    color: #000000;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    left: 10px;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    position: absolute;
+    text-align: center;
+    top: 226px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .text-wrapper-7 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 10px;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    position: absolute;
+    text-align: center;
+    top: 239px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-3 {
+    align-items: center;
+    background-color: #ff58003b;
+    border: 1px solid;
+    border-color: #ff5800;
+    border-radius: 6px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 10px;
+    overflow: hidden;
+    padding: 6px 15px;
+    position: absolute;
+    top: 283px;
+    width: 181px;
+  }
+  
+  .baladi-mart .text-wrapper-8 {
+    color: #ff4200;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: -0.17px;
+    line-height: 10px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .baladi-mart .group-5 {
+    height: 316px;
+    left: 884px;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .group-6 {
+    height: 316px;
+    left: 442px;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .image-3 {
+    height: 160px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 147px;
+  }
+  
+  .baladi-mart .group-7 {
+    height: 316px;
+    left: 1105px;
+    position: absolute;
+    top: 0;
+    width: 200px;
+  }
+  
+  .baladi-mart .text-fields-wrapper {
+    height: 49px;
+    left: 450px;
+    position: absolute;
+    top: 41px;
+    width: 666px;
+  }
+  
+  .baladi-mart .text-fields {
+    background-color: #f2f2f2b2;
+    border-radius: 10px;
+    height: 49px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .baladi-mart .text-wrapper-9 {
+    color: #959595;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 19px;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .placeholder {
+    height: 19px;
+    left: 13px;
+    position: absolute;
+    top: 15px;
+    width: 18px;
+  }
+  
+  .baladi-mart .frame-4 {
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    height: 49px;
+    left: 1341px;
+    overflow: hidden;
+    position: absolute;
+    top: 41px;
+    width: 49px;
+  }
+  
+  .baladi-mart .text-wrapper-10 {
+    color: #ff5800;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 15px;
+    font-weight: 700;
+    left: 15px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 11px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-5 {
+    height: 49px;
+    left: 1412px;
+    position: absolute;
+    top: 41px;
+    width: 49px;
+  }
+  
+  .baladi-mart .frame-6 {
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    height: 49px;
+    left: 1483px;
+    overflow: hidden;
+    position: absolute;
+    top: 41px;
+    width: 49px;
+  }
+  
+  .baladi-mart .overlap-2 {
+    height: 33px;
+    left: 13px;
+    position: relative;
+    top: 6px;
+    width: 28px;
+  }
+  
+  .baladi-mart .group-8 {
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 4px;
+    width: 23px;
+  }
+  
+  .baladi-mart .frame-wrapper {
+    height: 14px;
+    left: 14px;
+    position: absolute;
+    top: 0;
+    width: 14px;
+  }
+  
+  .baladi-mart .frame-7 {
+    background-color: #ff5800;
+    border-radius: 60px;
+    height: 14px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .baladi-mart .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 11px;
+    font-weight: 700;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: 11px;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .group-wrapper {
+    background-color: #ff580036;
+    border-radius: 10px;
+    height: 49px;
+    left: 1158px;
+    overflow: hidden;
+    position: absolute;
+    top: 41px;
+    width: 161px;
+  }
+  
+  .baladi-mart .group-9 {
+    height: 26px;
+    left: 7px;
+    position: relative;
+    top: 11px;
+    width: 147px;
+  }
+  
+  .baladi-mart .phosphor-icons {
+    height: 14px !important;
+    left: 131px !important;
+    position: absolute !important;
+    top: 8px !important;
+    width: 14px !important;
+  }
+  
+  .baladi-mart .navigation-arrow {
+    height: 21px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 4px !important;
+    width: 21px !important;
+  }
+  
+  .baladi-mart .text-wrapper-12 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 26px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .layer {
+    height: 50px;
+    left: 252px;
+    position: absolute;
+    top: 40px;
+    width: 136px;
+  }
+  
+  .baladi-mart .overlap-3 {
+    height: 3430px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1702px;
+  }
+  
+  .baladi-mart .frame-8 {
+    background-color: #ffffff;
+    height: 3430px;
+    left: 1532px;
+    position: absolute;
+    top: 0;
+    width: 170px;
+  }
+  
+  .baladi-mart .frame-9 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 0;
+    padding: 20px 0px 0px;
+    position: absolute;
+    top: 1963px;
+  }
+  
+  .baladi-mart .group-10 {
+    height: 535.29px;
+    position: relative;
+    width: 1590px;
+  }
+  
+  .baladi-mart .group-11 {
+    height: 535px;
+  }
+  
+  .baladi-mart .group-12 {
+    height: 535px;
+    width: 1616px;
+  }
+  
+  .baladi-mart .overlap-4 {
+    background-image: url(./rectangle-2-1.svg);
+    background-size: 100% 100%;
+    height: 501px;
+    left: 150px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .baladi-mart .twitter {
+    height: 36px;
+    left: 385px;
+    position: absolute;
+    top: 376px;
+    width: 36px;
+  }
+  
+  .baladi-mart .instagram {
+    height: 36px;
+    left: 481px;
+    position: absolute;
+    top: 376px;
+    width: 36px;
+  }
+  
+  .baladi-mart .facebook {
+    height: 36px;
+    left: 434px;
+    position: absolute;
+    top: 376px;
+    width: 34px;
+  }
+  
+  .baladi-mart .line {
+    height: 1px;
+    left: 99px;
+    object-fit: cover;
+    position: absolute;
+    top: 432px;
+    width: 1244px;
+  }
+  
+  .baladi-mart .p {
+    color: #ffffff;
+    font-family: "Quicksand-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 553px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 463px;
+    width: 278px;
+  }
+  
+  .baladi-mart .overlap-5 {
+    border-radius: 10px;
+    height: 41px;
+    left: 1212px;
+    position: absolute;
+    top: 371px;
+    width: 129px;
+  }
+  
+  .baladi-mart .image-wrapper {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 10px;
+    height: 41px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 129px;
+  }
+  
+  .baladi-mart .image-4 {
+    height: 21px;
+    left: 5px;
+    position: absolute;
+    top: 10px;
+    width: 17px;
+  }
+  
+  .baladi-mart .download-on-the-app {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 33px;
+    letter-spacing: 0;
+    line-height: 15px;
+    position: absolute;
+    top: 7px;
+    width: 73px;
+  }
+  
+  .baladi-mart .span {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+  }
+  
+  .baladi-mart .text-wrapper-13 {
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .baladi-mart .frame-10 {
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 10px;
+    height: 41px;
+    left: 1070px;
+    overflow: hidden;
+    position: absolute;
+    top: 371px;
+    width: 129px;
+  }
+  
+  .baladi-mart .image-5 {
+    height: 21px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 10px;
+    width: 20px;
+  }
+  
+  .baladi-mart .GET-IT-ON-google {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 10px;
+    font-weight: 400;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: 10px;
+    position: absolute;
+    top: 4px;
+    width: 89px;
+  }
+  
+  .baladi-mart .text-wrapper-14 {
+    line-height: 12px;
+  }
+  
+  .baladi-mart .text-wrapper-15 {
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 15px;
+  }
+  
+  .baladi-mart .group-13 {
+    height: 36px;
+    left: 324px;
+    position: absolute;
+    top: 376px;
+    width: 48px;
+  }
+  
+  .baladi-mart .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 123px;
+    letter-spacing: 0;
+    line-height: 12px;
+    position: absolute;
+    text-decoration: underline;
+    top: 394px;
+    width: 147px;
+  }
+  
+  .baladi-mart .text-wrapper-17 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 15px;
+    font-weight: 500;
+    left: 1015px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 174px;
+    width: 228px;
+  }
+  
+  .baladi-mart .group-14 {
+    height: 70px;
+    left: 940px;
+    position: absolute;
+    top: 202px;
+    width: 403px;
+  }
+  
+  .baladi-mart .overlap-group-3 {
+    background-color: #ffffff;
+    border-radius: 50px;
+    box-shadow: 0px 10px 20px #00000033;
+    height: 70px;
+    position: relative;
+    width: 401px;
+  }
+  
+  .baladi-mart .telegram-wrapper {
+    background: linear-gradient(180deg, rgb(252, 160, 4) 0%, rgb(255, 116.04, 112.62) 100%);
+    border-radius: 50px;
+    box-shadow: 0px 5px 15px #fe8a3966;
+    height: 70px;
+    left: 256px;
+    position: absolute;
+    top: 0;
+    width: 144px;
+  }
+  
+  .baladi-mart .telegram {
+    height: 27px;
+    left: 60px;
+    position: absolute;
+    top: 21px;
+    width: 29px;
+  }
+  
+  .baladi-mart .text-wrapper-18 {
+    color: #898989;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 25px;
+    white-space: nowrap;
+    width: 70px;
+  }
+  
+  .baladi-mart .overlap-6 {
+    background-image: url(./vector.svg);
+    background-size: 100% 100%;
+    height: 80px;
+    left: 144px;
+    position: absolute;
+    top: 149px;
+    width: 93px;
+  }
+  
+  .baladi-mart .vector {
+    height: 18px;
+    left: 67px;
+    position: absolute;
+    top: 20px;
+    width: 27px;
+  }
+  
+  .baladi-mart .vector-2 {
+    height: 38px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 93px;
+  }
+  
+  .baladi-mart .text-wrapper-19 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 633px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 207px;
+    width: 117px;
+  }
+  
+  .baladi-mart .text-wrapper-20 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 632px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 250px;
+    width: 46px;
+  }
+  
+  .baladi-mart .text-wrapper-21 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 633px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 164px;
+    width: 96px;
+  }
+  
+  .baladi-mart .text-wrapper-22 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 320px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+    width: 147px;
+  }
+  
+  .baladi-mart .text-wrapper-23 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 633px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 125px;
+    width: 146px;
+  }
+  
+  .baladi-mart .text-wrapper-24 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 320px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 164px;
+    width: 148px;
+  }
+  
+  .baladi-mart .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 320px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 250px;
+    width: 216px;
+  }
+  
+  .baladi-mart .t-c {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 320px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 292px;
+    width: 47px;
+  }
+  
+  .baladi-mart .text-wrapper-26 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 320px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 207px;
+    width: 168px;
+  }
+  
+  .baladi-mart .group-15 {
+    height: 76px;
+    left: 205px;
+    position: absolute;
+    top: 217px;
+    width: 401px;
+  }
+  
+  .baladi-mart .frame-11 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px 0px;
+    position: relative;
+  }
+  
+  .baladi-mart .fresh-fruits-wrapper {
+    height: 36px;
+    margin-right: -2px;
+    position: relative;
+    width: 403px;
+  }
+  
+  .baladi-mart .fresh-fruits {
+    color: #000000;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 30px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 3px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-12 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 205px;
+    padding: 70px 0px 20px;
+    position: absolute;
+    top: 110px;
+  }
+  
+  .baladi-mart .group-16 {
+    height: 17px;
+    margin-right: -6px;
+    position: relative;
+    width: 454px;
+  }
+  
+  .baladi-mart .home-page {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 1.4px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .baladi-mart .baladi-express-mart {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 102px;
+    letter-spacing: 1.4px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .baladi-mart .fresh-fruits-2 {
+    color: #ff5800;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 265px;
+    letter-spacing: 1.4px;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 0;
+  }
+  
+  .baladi-mart .frame-13 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 205px;
+    padding: 20px 0px;
+    position: absolute;
+    top: 293px;
+  }
+  
+  .baladi-mart .group-17 {
+    height: 42px;
+    position: relative;
+    width: 511px;
+  }
+  
+  .baladi-mart .frame-14 {
+    border: 2px solid;
+    border-color: #ff5800;
+    border-radius: 10px;
+    height: 42px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 142px;
+  }
+  
+  .baladi-mart .text-wrapper-27 {
+    color: #00000080;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 19px;
+    font-weight: 500;
+    left: 10px;
+    letter-spacing: 1.9px;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+  }
+  
+  .baladi-mart .frame-15 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 42px;
+    left: 151px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 190px;
+  }
+  
+  .baladi-mart .text-wrapper-28 {
+    color: #00000080;
+    font-family: "SF Pro Display-Medium", Helvetica;
+    font-size: 19px;
+    font-weight: 500;
+    left: 13px;
+    letter-spacing: 1.9px;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+  }
+  
+  .baladi-mart .frame-16 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 42px;
+    left: 350px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 161px;
+  }
+  
+  .baladi-mart .frame-17 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 205px;
+    padding: 10px 0px 5px;
+    position: absolute;
+    top: 375px;
+  }
+  
+  .baladi-mart .group-18 {
+    height: 33px;
+    position: relative;
+    width: 647px;
+  }
+  
+  .baladi-mart .frame-18 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 80px;
+  }
+  
+  .baladi-mart .group-19 {
+    height: 16px;
+    left: 12px;
+    position: relative;
+    top: 8px;
+    width: 59px;
+  }
+  
+  .baladi-mart .vector-3 {
+    height: 5px;
+    left: 49px;
+    position: absolute;
+    top: 6px;
+    width: 8px;
+  }
+  
+  .baladi-mart .text-wrapper-29 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .vector-4 {
+    height: 10px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 12px;
+  }
+  
+  .baladi-mart .frame-19 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 85px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .text-wrapper-30 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 8px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-20 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 139px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .text-wrapper-31 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-21 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 193px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .text-wrapper-32 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 7px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-22 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 247px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .text-wrapper-33 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 6px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-23 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 301px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 53px;
+  }
+  
+  .baladi-mart .text-wrapper-34 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 1px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    width: 51px;
+  }
+  
+  .baladi-mart .frame-24 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 359px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 72px;
+  }
+  
+  .baladi-mart .text-wrapper-35 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: -12px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    width: 96px;
+  }
+  
+  .baladi-mart .frame-25 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 436px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .text-wrapper-36 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 5px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-26 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 490px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .text-wrapper-37 {
+    color: #000000;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: -0.17px;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: 7px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-27 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 544px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .frame-28 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 598px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .frame-29 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 205px;
+    padding: 5px 0px 10px;
+    position: absolute;
+    top: 423px;
+  }
+  
+  .baladi-mart .group-20 {
+    height: 33px;
+    position: relative;
+    width: 346px;
+  }
+  
+  .baladi-mart .frame-30 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 53px;
+  }
+  
+  .baladi-mart .frame-31 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 58px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 72px;
+  }
+  
+  .baladi-mart .frame-32 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 135px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .frame-33 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 189px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .frame-34 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 243px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .frame-35 {
+    border: 1px solid;
+    border-color: #b3bfcb40;
+    border-radius: 10px;
+    height: 33px;
+    left: 297px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .frame-36 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 10px;
+    left: 215px;
+    position: absolute;
+    top: 481px;
+  }
+  
+  .baladi-mart .group-21 {
+    height: 316px;
+    position: relative;
+    width: 1305px;
+  }
+  
+  .baladi-mart .frame-37 {
+    height: 316px;
+    left: 215px;
+    position: absolute;
+    top: 821px;
+    width: 1305px;
+  }
+  
+  .baladi-mart .overlap-7 {
+    height: 385px;
+    position: relative;
+  }
+  
+  .baladi-mart .group-22 {
+    height: 316px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1305px;
+  }
+  
+  .baladi-mart .frame-38 {
+    background-color: #ff5800;
+    border-radius: 13px;
+    height: 112px;
+    left: 1193px;
+    overflow: hidden;
+    position: absolute;
+    top: 273px;
+    width: 112px;
+  }
+  
+  .baladi-mart .group-23 {
+    height: 73px;
+    left: 22px;
+    position: absolute;
+    top: 5px;
+    width: 68px;
+  }
+  
+  .baladi-mart .text-wrapper-38 {
+    color: #ffffff;
+    font-family: "SF Pro Display-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 2px;
+    letter-spacing: -0.17px;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 80px;
+    white-space: nowrap;
+  }
+  
+  .baladi-mart .frame-39 {
+    height: 316px;
+    left: 217px;
+    position: absolute;
+    top: 1501px;
+    width: 1305px;
+  }
+  
+  .baladi-mart .group-24 {
+    height: 74px;
+    left: 1449px;
+    position: absolute;
+    top: 251px;
+    width: 74px;
+  }
+  
+  .baladi-mart .group-25 {
+    height: 74px;
+  }
+  
+  .baladi-mart .object-wrapper {
+    background-color: #b3bfcb21;
+    border-radius: 10px;
+    height: 74px;
+    overflow: hidden;
+    width: 74px;
+  }
+  
+  .baladi-mart .object {
+    height: 51px;
+    left: 11px;
+    opacity: 0.8;
+    position: relative;
+    top: 11px;
+    width: 52px;
+  }
+  
+  .baladi-mart .overlap-group-4 {
+    height: 51px;
+    position: relative;
+  }
+  
+  .baladi-mart .vector-5 {
+    height: 49px;
+    left: 3px;
+    position: absolute;
+    top: 2px;
+    width: 49px;
+  }
+  
+  .baladi-mart .vector-6 {
+    height: 49px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 49px;
+  }
+  
+  .baladi-mart .vector-7 {
+    height: 20px;
+    left: 4px;
+    position: absolute;
+    top: 25px;
+    width: 40px;
+  }
+  
+  .baladi-mart .vector-8 {
+    height: 1px;
+    left: 9px;
+    position: absolute;
+    top: 46px;
+    width: 31px;
+  }
+  
+  .baladi-mart .vector-9 {
+    height: 20px;
+    left: 33px;
+    position: absolute;
+    top: 3px;
+    width: 8px;
+  }
+  
+  .baladi-mart .vector-10 {
+    height: 20px;
+    left: 7px;
+    position: absolute;
+    top: 3px;
+    width: 8px;
+  }
+  
+  .baladi-mart .vector-11 {
+    height: 6px;
+    left: 2px;
+    position: absolute;
+    top: 18px;
+    width: 45px;
+  }
+  
+  .baladi-mart .group-26 {
+    height: 14px;
+    left: 38px;
+    position: absolute;
+    top: 0;
+    width: 14px;
+  }
+  
+  .baladi-mart .frame-40 {
+    background-color: #89c946;
+    border-radius: 60px;
+    height: 14px;
+    overflow: hidden;
+    position: relative;
+  }
+  
