@@ -16,6 +16,27 @@
     text-align: center;
 
 }
+.product-card {
+  transition: transform 0.3s;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}
+
+.product-image {
+  height: 200px;
+  object-fit: cover;
+}
+
+.product-description {
+  height: 80px;
+  overflow: hidden;
+}
+
+.product-button {
+  width: 100%;
+}
 @media (max-width:600px){
     .product-list{
         flex-direction: row;
