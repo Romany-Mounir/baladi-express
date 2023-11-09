@@ -1,4 +1,32 @@
-.baladi-mart {
+.product-list{
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow-x: auto; */
+    display: grid;
+  grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  }
+  .product-card{
+    
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    min-width: 200px;
+    text-align: center;
+
+}
+@media (max-width:600px){
+    .product-list{
+        flex-direction: row;
+        align-items: center;
+    }
+    .product-card{
+        max-width: 100%;
+      
+    }
+}
+/* .baladi-mart {
     background-color: #ffffff;
     display: flex;
     flex-direction: row;
@@ -1659,4 +1687,4 @@
     overflow: hidden;
     position: relative;
   }
-  
+   */
