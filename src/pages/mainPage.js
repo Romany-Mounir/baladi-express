@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Container, Row } from "react-bootstrap";
 import axios from "axios";
+import loadin from '../assets/loading_3.svg';
 import "./style.css";
 
 import Product from "../components/product";
@@ -28,12 +29,11 @@ export default function MainPage() {
             "x-api-key": apiKey,
           },
         });
-        const dataFound = await response.json();
-        setFetchedRestaurants(dataFound.data);
+
+        setFetchedRestaurants(response.data);
       } catch (e) {
         console.error("error fetching data: ", e);
-      }
-      finally {
+      } finally {
         setIsLoading(false);
       }
     };
@@ -45,11 +45,11 @@ export default function MainPage() {
             "x-api-key": apiKey,
           },
         });
-        const dataFound = await response.json();
-        setFetchedCategories(dataFound.data);
+
+        setFetchedCategories(response.data);
       } catch (e) {
         console.error("error fetching data: ", e);
-      }finally {
+      } finally {
         setIsLoading(false);
       }
     };
@@ -61,14 +61,11 @@ export default function MainPage() {
             "x-api-key": apiKey,
           },
         });
-      
 
-        const dataFoundd = await response.json();
-        
-        setFetchedProducts(dataFoundd.data);
+        setFetchedProducts(response.data.products);
       } catch (e) {
         console.error("error fetching data: ", e);
-      }finally {
+      } finally {
         setIsLoading(false);
       }
     };
@@ -93,27 +90,24 @@ export default function MainPage() {
   //     </div>
   //   );
   // }
+ 
   return (
     <>
-    {
-      
-    }
-     {isLoading ? (
-      <p>Loading...</p>
-    ) : (
-      <Container className="products-list">
-    <h1 className="mt-5 mb-4">Product Page</h1>
-      <Row>
-      {fetchedProducts.products.map((product) => (
-          <Product key={product.id} product={product} />
-        ))}
-      </Row>
-    </Container>
-    )}
-    
-  
-    
+      {isLoading ? (
+        
+          
+          <img className="loader" alt='' src={loadin} width='150px'/>
+        
+      ) : (
+        <Container >
+          <h1 className="mt-5 mb-4">Product Page</h1>
+          <Row className="products-list">
+            {fetchedProducts.map((product) => (
+              <Product key={product.id} product={product} />
+            ))}
+          </Row>
+        </Container>
+      )}
     </>
-    
   );
 }

@@ -1,5 +1,16 @@
+:root {
+  --color-cream: #faf5d0;
+  --color-teal: #004c59;
+  --color-orange: #f65024;
+  --color-gray: #dadada;
+  --color-dark-gray: #303030;
+  --color-light-blue: #e4f1f3;
+  --color-light-green: #bec516;
+  --color-sky-blue: #76ccdc;
+}
 .App {
   text-align: center;
+  background-color: #fafafa;
 }
 
 .App-logo {
